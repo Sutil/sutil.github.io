@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/static/js/main.dff422ed.chunk.js",
-    "main.js.map": "/static/js/main.dff422ed.chunk.js.map",
+    "main.js": "/static/js/main.c731a7b7.chunk.js",
+    "main.js.map": "/static/js/main.c731a7b7.chunk.js.map",
     "runtime~main.js": "/static/js/runtime~main.48df8006.js",
     "runtime~main.js.map": "/static/js/runtime~main.48df8006.js.map",
     "static/js/2.494f8ab0.chunk.js": "/static/js/2.494f8ab0.chunk.js",
     "static/js/2.494f8ab0.chunk.js.map": "/static/js/2.494f8ab0.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.41fe72fb41557caeade803d2835c65e6.js": "/precache-manifest.41fe72fb41557caeade803d2835c65e6.js",
+    "precache-manifest.5f5592d2501ba00103b3679b1eb3eeed.js": "/precache-manifest.5f5592d2501ba00103b3679b1eb3eeed.js",
     "service-worker.js": "/service-worker.js",
     "static/media/netfoods.png": "/static/media/netfoods.ff44dd09.png"
   }
