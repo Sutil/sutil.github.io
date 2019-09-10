@@ -1,14 +1,15 @@
 {
   "files": {
-    "main.js": "/static/js/main.c731a7b7.chunk.js",
-    "main.js.map": "/static/js/main.c731a7b7.chunk.js.map",
+    "main.js": "/static/js/main.9c3180bd.chunk.js",
+    "main.js.map": "/static/js/main.9c3180bd.chunk.js.map",
     "runtime~main.js": "/static/js/runtime~main.48df8006.js",
     "runtime~main.js.map": "/static/js/runtime~main.48df8006.js.map",
-    "static/js/2.494f8ab0.chunk.js": "/static/js/2.494f8ab0.chunk.js",
-    "static/js/2.494f8ab0.chunk.js.map": "/static/js/2.494f8ab0.chunk.js.map",
+    "static/js/2.4dddc85b.chunk.js": "/static/js/2.4dddc85b.chunk.js",
+    "static/js/2.4dddc85b.chunk.js.map": "/static/js/2.4dddc85b.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.5f5592d2501ba00103b3679b1eb3eeed.js": "/precache-manifest.5f5592d2501ba00103b3679b1eb3eeed.js",
+    "precache-manifest.80cf23e86986654b7a5bf0da7a8b7ca7.js": "/precache-manifest.80cf23e86986654b7a5bf0da7a8b7ca7.js",
     "service-worker.js": "/service-worker.js",
+    "static/media/multiutilidades.png": "/static/media/multiutilidades.0eaf90c4.png",
     "static/media/netfoods.png": "/static/media/netfoods.ff44dd09.png"
   }
 }
